@@ -6,6 +6,9 @@ import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+from dotenv import load_dotenv
+load_dotenv()
+
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
