@@ -1,0 +1,39 @@
+services:
+  finance-assistant:
+    build: .
+    image: personal-finance-assistant:latest
+    ports:
+      - "8501:8501"
+
+    # API keys and config — copy .env.example to .env and fill in your keys
+    env_file:
+      - .env
+
+    environment:
+      FA_LOG_LEVEL: INFO
+      STREAMLIT_SERVER_HEADLESS: "true"
+      # Store FAISS index in a dedicated volume so the knowledge_base/ JSON
+      # directory in the image stays accessible.
+      FAISS_INDEX_PATH: /data/faiss_index.pkl
+
+    # /data persists the FAISS index across container restarts.
+    # First start rebuilds it (~2-3s via one batch OpenAI call); subsequent
+    # starts load from disk in <1s.
+    volumes:
+      - faiss_cache:/data
+
+    # Restart automatically unless manually stopped
+    restart: unless-stopped
+
+    # Health check — Streamlit responds on /_stcore/health
+    healthcheck:
+      test: ["CMD", "python", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8501/_stcore/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+volumes:
+  faiss_cache:
+    driver: local

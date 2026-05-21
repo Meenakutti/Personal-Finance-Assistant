@@ -1,0 +1,835 @@
+[
+  {
+    "id": "kb_001",
+    "category": "Alternative Investments",
+    "title": "Commodities and Real Assets",
+    "content": "Commodities (oil, gold, agriculture): 5-10% portfolio allocation for inflation hedge. Uncorrelated to stocks/bonds. Disadvantages: no cash flow (dividend/interest), volatile, storage costs for some. Gold: ~1% historical real return, hedges inflation, diversification. Precious metals: 2-5% allocation for insurance. Agricultural: useful inflation hedge. Commodity index funds: DBC, GSG. Most simple portfolios skip commodities for complexity tradeoff. Commodities useful for investors wanting explicit inflation protection.",
+    "source": "Morningstar & Vanguard"
+  },
+  {
+    "id": "kb_002",
+    "category": "Asset Allocation",
+    "title": "Age-Based Allocation Strategy",
+    "content": "Conservative allocation: 30/70 stocks/bonds (early retirees, risk-averse). Moderate allocation: 60/40 stocks/bonds (middle-aged, 10-15 year horizon). Aggressive allocation: 80/20 stocks/bonds (young investors, 20+ year horizon). Very aggressive: 90/10 stocks/bonds (very young, exceptional risk tolerance). Rule of thumb: subtract your age from 120 for stock percentage. Example: 35-year-old = 85% stocks. Adjust based on personal circumstances, income stability, and risk tolerance.",
+    "source": "Bogleheads"
+  },
+  {
+    "id": "kb_003",
+    "category": "Asset Allocation",
+    "title": "Diversification Essentials",
+    "content": "True diversification requires holding multiple asset classes: US stocks (40-60%), international stocks (10-30%), bonds (20-40%), alternatives (0-10%). Within stocks: large-cap, mid-cap, small-cap, value, growth. Within bonds: government, corporate, international. Correlation between asset classes is key\u00e2\u20ac\u201dduring stock market downturns, bonds typically rise, offsetting losses. A 60/40 stock/bond portfolio has historically provided good risk-adjusted returns. Avoid concentration in single sectors or companies.",
+    "source": "Vanguard"
+  },
+  {
+    "id": "kb_004",
+    "category": "Asset Allocation",
+    "title": "What Is Asset Allocation?",
+    "content": "Asset allocation is the process of dividing investments among different asset classes such as stocks, bonds, and cash. Allocation decisions are based on investment goals, risk tolerance, and time horizon. Proper asset allocation is a core principle of long-term investing.",
+    "source": "Bogleheads Wiki & Modern Portfolio Theory"
+  },
+  {
+    "id": "kb_005",
+    "category": "Banking",
+    "title": "Checking vs Savings Accounts",
+    "content": "Checking accounts are designed for everyday spending and bill payments, while savings accounts are intended for storing money and earning interest. Checking accounts often include debit cards and unlimited transactions, whereas savings accounts may limit withdrawals.",
+    "source": "FDIC"
+  },
+  {
+    "id": "kb_006",
+    "category": "Behavioral Finance",
+    "title": "Avoiding Common Mistakes",
+    "content": "Key behavioral pitfalls: 1) Overconfidence (overtrading), 2) Recency bias (buying high after gains), 3) Loss aversion (holding losers, selling winners), 4) Analysis paralysis (staying in cash), 5) Herding (following crowds). Solutions: stick to written investment plan, automate purchases (dollar-cost averaging), rebalance systematically, avoid daily account monitoring, ignore market noise, focus on factors you control (costs, taxes, discipline). Historical data: emotional investors underperform systematic investors by 2-3%/year.",
+    "source": "Bogleheads & Morningstar"
+  },
+  {
+    "id": "kb_007",
+    "category": "Behavioral Finance",
+    "title": "Emotional Investing Mistakes",
+    "content": "Fear and greed can cause investors to buy high and sell low. Long-term investment plans, diversification, and disciplined strategies may reduce emotional decision-making.",
+    "source": "Morningstar"
+  },
+  {
+    "id": "kb_008",
+    "category": "Behavioral Finance",
+    "title": "Market Timing Risks",
+    "content": "Market timing attempts to predict short-term market movements to buy low and sell high. Consistently timing markets is extremely difficult, and many investors miss significant gains by staying out of the market during recoveries.",
+    "source": "Bogleheads Wiki"
+  },
+  {
+    "id": "kb_009",
+    "category": "Bond Returns",
+    "title": "Bond Returns and Yield Curves",
+    "content": "Bond returns = coupon + price appreciation/depreciation + reinvestment. Current yield: annual coupon / price. If buy 4% bond at par ($1,000), get $40/year yield. If buy at discount ($900), yield higher. Yield curve: plots yields across maturities. Normal curve: longer maturities higher yield (compensation for risk). Inverted curve: longer yields lower (recession signal). Current 10-year Treasury yields: track Fed expectations. Falling yields = bond price appreciation. Rising yields = bond price depreciation. Duration matters for returns.",
+    "source": "PIMCO Education"
+  },
+  {
+    "id": "kb_010",
+    "category": "Bonds",
+    "title": "Bond Basics and Duration",
+    "content": "Bonds are loans to governments or corporations. Key metrics: Yield (annual return), Duration (sensitivity to rate changes), Credit Quality (likelihood of repayment). Investment-grade bonds (BBB- or higher) have lower default risk. When interest rates rise, bond prices fall (inverse relationship). Duration measures this sensitivity: 5-year duration means 5% price drop per 1% rate increase. Bond ETFs (AGG, BND) offer diversified exposure. For fixed income: yield curve, credit spreads, and inflation expectations are important.",
+    "source": "PIMCO Education"
+  },
+  {
+    "id": "kb_011",
+    "category": "Bonds",
+    "title": "Corporate vs Government Bonds",
+    "content": "US Treasury bonds: government backed, safest, lowest yields (2-5% depending on maturity). Corporate bonds: business backed, higher yields (3-8%), higher default risk. Investment-grade (BBB-/Ba2+): <5% default risk. High-yield/junk (below BBB-): higher default risk (5-15%+). For most investors: broad bond index (AGG) provides diversified corporate/government exposure. Individual bonds: risk not diversified. Bond ladders: buy different maturities, provides steady income. Current environment: corporate spreads reasonable for risk taken.",
+    "source": "PIMCO Education & SEC"
+  },
+  {
+    "id": "kb_012",
+    "category": "Bonds",
+    "title": "Duration and Interest Rate Risk",
+    "content": "Bond duration = years until cash flows equal price (weighted average). If Fed raises rates 1%, a 5-year duration bond falls ~5%. 10-year duration bond falls ~10%. In rising rate environment: stick with shorter duration (2-3 years) or floating-rate bonds. In falling rate environment: longer duration benefits from price appreciation. Current environment (2024): rates high, bonds attractive. Ladder bonds across 2-10 years to reduce reinvestment risk and smooth returns.",
+    "source": "PIMCO Education"
+  },
+  {
+    "id": "kb_013",
+    "category": "Bonds",
+    "title": "Fixed Income Strategy",
+    "content": "PIMCO recommends: 1) Diversify by bond type (government, corporate, TIPS), 2) Consider inflation protection (TIPS), 3) Ladder maturities to reduce reinvestment risk, 4) Monitor credit quality, 5) Use bond funds for diversification vs individual bonds. Bonds typically provide 2-5% annual yields currently. TIPS protect against inflation with principal adjustments. High-yield bonds offer higher returns (5-8%) but with higher default risk. Core bond ETFs provide broad exposure at low cost.",
+    "source": "PIMCO Education"
+  },
+  {
+    "id": "kb_014",
+    "category": "Bonds",
+    "title": "How Bonds Work",
+    "content": "Bonds are loans made by investors to governments or corporations. Bondholders receive periodic interest payments and repayment of principal at maturity. Bond prices and yields are influenced by interest rates and credit quality.",
+    "source": "FINRA & SEC"
+  },
+  {
+    "id": "kb_015",
+    "category": "Budgeting",
+    "title": "The 50/30/20 Budget Rule",
+    "content": "The 50/30/20 rule allocates 50% of after-tax income to needs, 30% to wants, and 20% to savings or debt repayment. Needs include rent, utilities, groceries, and insurance. Wants include entertainment and dining out. The savings category includes emergency funds, retirement contributions, and extra debt payments.",
+    "source": "Elizabeth Warren Framework"
+  },
+  {
+    "id": "kb_016",
+    "category": "Budgeting",
+    "title": "What Is a Budget?",
+    "content": "A budget is a plan for managing income and expenses over a specific period. Common budgeting methods include the 50/30/20 rule, zero-based budgeting, and envelope budgeting. Tracking spending helps identify unnecessary expenses, improve savings, and reduce financial stress. Essential categories include housing, food, transportation, insurance, debt payments, and savings.",
+    "source": "CFPB & Fidelity"
+  },
+  {
+    "id": "kb_017",
+    "category": "Budgeting",
+    "title": "Zero-Based Budgeting Basics",
+    "content": "Zero-based budgeting assigns every dollar of income a purpose so income minus expenses equals zero. Categories include bills, savings, investments, and discretionary spending. This method increases awareness of cash flow and reduces overspending.",
+    "source": "Dave Ramsey & CFPB"
+  },
+  {
+    "id": "kb_018",
+    "category": "Cost Management",
+    "title": "Fee-Only vs Commission Financial Advisors",
+    "content": "Fee-only advisors charge percentage (0.5-1.5%) or flat fee. Commission-based advisors earn per transaction/product sold\u00e2\u20ac\u201dcreates conflicts of interest (incentive to churn or recommend high-fee products). Fiduciary advisors legally required to put client interests first; many brokers only need 'suitability' standard. Fee-only fiduciary advisors typically best for long-term investors. SEC requires disclosure of fees, conflicts, credentials. Robo-advisors (Vanguard, Betterment, Wealthfront) offer 0.25-0.50% AUM fees with automated rebalancing.",
+    "source": "SEC & Vanguard"
+  },
+  {
+    "id": "kb_019",
+    "category": "Cost Management",
+    "title": "Impact of Fees on Returns",
+    "content": "A $100,000 portfolio: 1% fee costs $1,000/year. Over 30 years at 7% returns: 1% fee = $535,000 final value vs 0.1% fee = $761,000. That's $226,000 (42%) less! Average actively managed fund: 1.0% fee. Average index fund: 0.05% fee. Even small differences compound. Vanguard average expense ratio: 0.11%. Competitors average 0.50%. Over 30 years, 0.39% difference = multiple hundreds of thousands in lost returns. Always review fund expense ratios and investment fees.",
+    "source": "Vanguard & Morningstar"
+  },
+  {
+    "id": "kb_020",
+    "category": "Credit",
+    "title": "Credit Utilization Explained",
+    "content": "Credit utilization measures how much revolving credit is being used compared to total credit limits. Lower utilization ratios generally improve credit scores. Many experts recommend keeping utilization below 30%, with lower percentages often viewed more favorably.",
+    "source": "Experian & Equifax"
+  },
+  {
+    "id": "kb_021",
+    "category": "Credit",
+    "title": "How Credit Scores Work",
+    "content": "Credit scores estimate a borrower\u00e2\u20ac\u2122s creditworthiness. FICO scores generally range from 300 to 850 and are based on payment history, credit utilization, credit age, credit mix, and new inquiries. Higher scores may improve loan approval odds and reduce borrowing costs.",
+    "source": "FICO & Experian"
+  },
+  {
+    "id": "kb_022",
+    "category": "Credit",
+    "title": "Understanding Credit Scores",
+    "content": "Credit scores measure a borrower\u00e2\u20ac\u2122s creditworthiness. FICO scores generally range from 300 to 850 and are calculated using payment history, amounts owed, length of credit history, new credit inquiries, and credit mix. Higher credit scores may help borrowers qualify for lower interest rates and better loan terms.",
+    "source": "Investopedia & SEC Investor.gov"
+  },
+  {
+    "id": "kb_023",
+    "category": "Credit Cards",
+    "title": "How Credit Card Interest Works",
+    "content": "Credit card issuers charge interest on unpaid balances using the annual percentage rate (APR). Carrying balances from month to month can significantly increase borrowing costs. Paying the full statement balance by the due date generally avoids interest charges on purchases.",
+    "source": "Investopedia & CFPB"
+  },
+  {
+    "id": "kb_024",
+    "category": "Credit Cards",
+    "title": "Understanding Credit Card Interest",
+    "content": "Credit card issuers charge interest on unpaid balances using the annual percentage rate (APR). Carrying balances month-to-month can significantly increase borrowing costs. Paying the statement balance in full each month generally avoids interest charges.",
+    "source": "Consumer Financial Protection Bureau"
+  },
+  {
+    "id": "kb_025",
+    "category": "Cybersecurity",
+    "title": "Protecting Financial Accounts Online",
+    "content": "Strong passwords, multi-factor authentication, secure Wi-Fi, and regular account monitoring help protect financial accounts. Avoid sharing sensitive information through unsolicited messages or calls.",
+    "source": "FTC"
+  },
+  {
+    "id": "kb_026",
+    "category": "Cybersecurity",
+    "title": "Protecting Financial Information Online",
+    "content": "Strong passwords, multi-factor authentication, secure internet connections, and regular account monitoring help protect financial accounts from cybercrime. Individuals should avoid sharing sensitive information through unsolicited emails or phone calls.",
+    "source": "SEC Investor.gov & FTC"
+  },
+  {
+    "id": "kb_027",
+    "category": "Debt",
+    "title": "Debt Snowball vs Debt Avalanche",
+    "content": "The debt snowball method prioritizes paying off the smallest balance first to build motivation, while the debt avalanche method prioritizes the highest interest rate to minimize total interest costs. Both strategies require making minimum payments on all debts while aggressively targeting one debt at a time.",
+    "source": "CFPB & Investopedia"
+  },
+  {
+    "id": "kb_028",
+    "category": "Debt",
+    "title": "Good Debt vs Bad Debt",
+    "content": "Good debt may help build long-term wealth or increase income potential, such as mortgages, student loans, or business loans. Bad debt generally finances depreciating assets or unnecessary consumption with high interest rates, such as excessive credit card debt.",
+    "source": "Morningstar & Investopedia"
+  },
+  {
+    "id": "kb_029",
+    "category": "Diversification",
+    "title": "Benefits of Diversification",
+    "content": "Diversification reduces portfolio risk by spreading investments across multiple assets, industries, and geographic regions. Diversified portfolios are generally less volatile because losses in one investment may be offset by gains in another.",
+    "source": "Modern Portfolio Theory & Bogleheads Wiki"
+  },
+  {
+    "id": "kb_030",
+    "category": "Diversification",
+    "title": "Geographic Diversification",
+    "content": "US stocks represent 50% of global market value. International developed markets (Europe, Japan, Australia) add growth potential and currency diversification. Emerging markets (China, Brazil, India) offer higher growth but higher volatility. Recommendation: 60-70% US, 30-40% international for broad exposure. Developed markets 70% of international, emerging 30%. International stock ETFs: VXUS (all international), VEA (developed), VWO (emerging). Benefits: reduced home bias risk, correlation often <0.85 with US stocks.",
+    "source": "Vanguard"
+  },
+  {
+    "id": "kb_031",
+    "category": "Dividend Investing",
+    "title": "Dividend Strategy Basics",
+    "content": "Dividend yield = annual dividend / stock price. Average S&P 500 yield: 1.5-2.5%. High-yield stocks: >4% yields (REITs, utilities, preferred stocks). Dividend-paying stocks historically: lower volatility, better inflation protection. Qualified dividends (held >60 days) taxed at capital gains rates (0%, 15%, 20%) vs ordinary income (up to 37%). For taxable accounts: dividend tax efficiency. In retirement accounts: dividend yield less relevant (tax-deferred). Strategy: diversified dividend index funds (VTI) vs individual high-yield pickers.",
+    "source": "Vanguard & Morningstar"
+  },
+  {
+    "id": "kb_032",
+    "category": "ESG Investing",
+    "title": "Sustainable/ESG Portfolio Investing",
+    "content": "ESG (Environmental, Social, Governance) investing considers sustainability factors. ESG funds exclude 'sin stocks' (tobacco, weapons, fossil fuels). Performance varies: some ESG funds outperform (renewable energy winners), some underperform (missing tech winners in early years). Expense ratios higher (0.25-0.75%) vs index funds (0.05-0.15%). Effective ESG: negative screening (exclude bad), positive screening (favor good). For ESG focus: combine ESG index fund (ESGU) with core allocation for lower costs.",
+    "source": "Morningstar & Vanguard"
+  },
+  {
+    "id": "kb_033",
+    "category": "ETFs",
+    "title": "ETF vs Mutual Fund Comparison",
+    "content": "ETFs offer lower expense ratios (average 0.20%) versus actively managed mutual funds (1.0%+ average). ETFs have tax efficiency due to creation/redemption process, while mutual funds distribute taxable gains. Both provide diversification. ETFs trade intraday like stocks with real-time pricing, mutual funds settle at end of day NAV. For long-term buy-and-hold investors, the tax efficiency and lower costs of ETFs are significant advantages.",
+    "source": "Morningstar"
+  },
+  {
+    "id": "kb_034",
+    "category": "ETFs",
+    "title": "Exchange-Traded Funds Basics",
+    "content": "Exchange-traded funds (ETFs) are investment funds traded on stock exchanges. ETFs often track indexes and provide diversification with relatively low fees. Investors can buy and sell ETF shares throughout the trading day like individual stocks.",
+    "source": "Investopedia & SEC Investor.gov"
+  },
+  {
+    "id": "kb_035",
+    "category": "ETFs",
+    "title": "What Is an ETF?",
+    "content": "Exchange-traded funds (ETFs) are investment funds traded on stock exchanges. ETFs often track indexes and usually have lower expense ratios than actively managed mutual funds. Investors can buy and sell ETF shares throughout the trading day.",
+    "source": "Vanguard & BlackRock"
+  },
+  {
+    "id": "kb_036",
+    "category": "ETFs",
+    "title": "What is an ETF?",
+    "content": "Exchange-Traded Funds (ETFs) trade on exchanges like stocks but hold a basket of assets. Index ETFs track benchmarks like S&P 500 (SPY, VOO, IVV). Advantages: low expense ratios (0.03-0.20%), instant diversification, tax efficiency, intraday liquidity. Sector ETFs target specific industries (XLK for tech). Bond ETFs (AGG, BND) provide fixed income exposure.",
+    "source": "Vanguard"
+  },
+  {
+    "id": "kb_037",
+    "category": "Earnings Reports",
+    "title": "Analyzing Earnings Quality",
+    "content": "EPS (Earnings Per Share) = net income / shares outstanding. Watch for: 1) Revenue growth vs EPS growth (if EPS grows but revenue flat, likely from buybacks or cost cutting), 2) Free cash flow vs earnings (earnings can be accounting tricks, cash doesn't lie), 3) Operating margins (% of revenue that's profit), 4) Accounting changes (cookie jar reserves). Quality earnings = sustainable, from core business, backed by cash. Monitor quarterly 10-Q and annual 10-K filings. Morningstar ratings: screen for quality stocks.",
+    "source": "SEC & Morningstar"
+  },
+  {
+    "id": "kb_038",
+    "category": "Economic Indicators",
+    "title": "Key Economic Indicators for Investors",
+    "content": "Unemployment rate: low unemployment supports stocks (less likely to cut rates). Inflation: high inflation favors commodities/TIPS, hurts bonds. GDP growth: 2-3% sustainable, higher risks overheating. Fed funds rate: affects all asset pricing. Yield curve: normal upward slope (stable), inverted (recession signal). S&P 500 earnings yield vs 10-year Treasury: if earnings yield low relative to bonds, stocks less attractive. Monitor but don't react immediately. Fed decisions announced\u00e2\u20ac\u201dwhen communicated months ahead, usually already priced in.",
+    "source": "SEC & PIMCO Education"
+  },
+  {
+    "id": "kb_039",
+    "category": "Economics",
+    "title": "How Interest Rates Affect Borrowing",
+    "content": "Interest rates influence the cost of borrowing money for loans, mortgages, and credit cards. Higher interest rates generally increase monthly payments and reduce borrowing activity, while lower rates encourage spending and investment.",
+    "source": "Investopedia"
+  },
+  {
+    "id": "kb_040",
+    "category": "Economics",
+    "title": "How Interest Rates Affect the Economy",
+    "content": "Central banks use interest rates to influence borrowing, spending, and inflation. Higher rates generally increase borrowing costs and slow economic activity, while lower rates encourage spending and investment.",
+    "source": "Federal Reserve"
+  },
+  {
+    "id": "kb_041",
+    "category": "Emerging Markets",
+    "title": "Emerging Markets Investing",
+    "content": "Emerging markets (Brazil, Russia, India, China) offer higher growth potential (5-8%+ long-term) vs developed markets (2-4%). Risks: political instability, currency fluctuations, lower regulation. Correlations to US stocks increasing but still useful for diversification. Suggested allocation: 5-10% of stock portion to emerging markets. ETFs: VWO (Vanguard), IEMG (iShares). Best for long-term investors with high risk tolerance. Not recommended as >10% of portfolio.",
+    "source": "Morningstar & Vanguard"
+  },
+  {
+    "id": "kb_042",
+    "category": "Entrepreneurship",
+    "title": "Separating Business and Personal Finances",
+    "content": "Business owners should maintain separate bank accounts, accounting records, and credit cards for business activities. Separation improves bookkeeping accuracy and simplifies tax reporting.",
+    "source": "SBA"
+  },
+  {
+    "id": "kb_043",
+    "category": "Estate Planning",
+    "title": "Trusts Explained",
+    "content": "Trusts are legal arrangements that hold assets for beneficiaries. Trusts may help avoid probate, provide privacy, and support estate planning goals.",
+    "source": "Fidelity"
+  },
+  {
+    "id": "kb_044",
+    "category": "Estate Planning",
+    "title": "Why Everyone Needs a Will",
+    "content": "A will outlines how assets should be distributed after death and may designate guardians for minor children. Without a will, state intestacy laws determine asset distribution.",
+    "source": "American Bar Association"
+  },
+  {
+    "id": "kb_045",
+    "category": "Expense Ratios",
+    "title": "Understanding Expense Ratios",
+    "content": "Expense ratio = annual percentage cost. 0.03% = $30/year on $100,000. 1.00% = $1,000/year. Directly reduces returns. Index funds: 0.03-0.15%. Active funds: 0.50-2.00%. ETFs generally lower than mutual funds. Look for funds <0.20% for stocks, <0.10% for bonds, <0.15% for sector funds. Over 30 years: 0.50% difference = 25-30% lower final balance. Average investor pays 0.75% expense ratio across all accounts (combined funds, fees, etc.). Switching to 0.15% average cuts costs 80%, directly increasing returns.",
+    "source": "Vanguard & Morningstar"
+  },
+  {
+    "id": "kb_046",
+    "category": "Financial Planning",
+    "title": "Net Worth Explained",
+    "content": "Net worth equals total assets minus total liabilities. Assets include savings, investments, and property, while liabilities include loans and credit card balances. Tracking net worth helps measure long-term financial progress.",
+    "source": "Investopedia"
+  },
+  {
+    "id": "kb_047",
+    "category": "Financial Planning",
+    "title": "Setting Financial Goals",
+    "content": "Financial goals provide direction for saving, investing, and spending decisions. Goals are commonly divided into short-term, medium-term, and long-term objectives. Effective goals are specific, measurable, realistic, and time-based.",
+    "source": "Bogleheads Wiki & Investopedia"
+  },
+  {
+    "id": "kb_048",
+    "category": "Financial Planning",
+    "title": "Setting SMART Financial Goals",
+    "content": "SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound. Financial goals may include building savings, reducing debt, buying a home, or retiring comfortably.",
+    "source": "CFPB"
+  },
+  {
+    "id": "kb_049",
+    "category": "Financial Planning",
+    "title": "What Is Net Worth?",
+    "content": "Net worth is calculated by subtracting total liabilities from total assets. Assets may include cash, investments, real estate, and retirement accounts, while liabilities include loans, mortgages, and credit card debt. Tracking net worth helps measure long-term financial progress.",
+    "source": "Investopedia"
+  },
+  {
+    "id": "kb_050",
+    "category": "Financial Statements",
+    "title": "Reading Financial Statements",
+    "content": "Balance sheet: assets = liabilities + equity. High debt/equity = risky. Cash flow statement: shows actual cash movements (most important). Income statement: revenues - expenses = net income. Key ratios: P/E (price/earnings), Price-to-book, Debt-to-equity, Return on equity (ROE), Profit margins. Compare to industry averages. Consistent profitability, growing revenue, manageable debt = quality company. Websites like Yahoo Finance or Morningstar show simplified financials with ratios. Don't require deep accounting knowledge for basic screening.",
+    "source": "SEC & Morningstar"
+  },
+  {
+    "id": "kb_051",
+    "category": "Fraud Prevention",
+    "title": "Common Investment Scams",
+    "content": "Investment scams often promise guaranteed returns with little or no risk. Common scams include Ponzi schemes, pump-and-dump schemes, phishing attacks, and fake investment advisors. Investors should verify credentials and research investments carefully before sending money.",
+    "source": "SEC Investor.gov"
+  },
+  {
+    "id": "kb_052",
+    "category": "Fraud Prevention",
+    "title": "Recognizing Financial Scams",
+    "content": "Common financial scams include phishing, fake investment opportunities, identity theft, and imposter scams. Warning signs include pressure tactics, guaranteed returns, and requests for sensitive information.",
+    "source": "FTC & SEC"
+  },
+  {
+    "id": "kb_053",
+    "category": "Index Funds",
+    "title": "Benefits of Index Investing",
+    "content": "Index funds aim to match the performance of a market index such as the S&P 500. They provide diversification, low costs, and passive management. Many long-term investors use index funds as core portfolio holdings.",
+    "source": "Vanguard"
+  },
+  {
+    "id": "kb_054",
+    "category": "Index Funds",
+    "title": "Index Investing Philosophy",
+    "content": "Bogleheads advocate for low-cost index fund investing based on principles: 1) Know what you own, 2) Diversify broadly, 3) Minimize costs, 4) Minimize taxes, 5) Rebalance regularly, 6) Stay the course. Jack Bogle demonstrated that 90% of active fund managers underperform their benchmark over 15+ years. Index funds provide market-rate returns with minimal fees and tax consequences.",
+    "source": "Bogleheads"
+  },
+  {
+    "id": "kb_055",
+    "category": "Index Funds",
+    "title": "S&P 500 Index Fund Performance",
+    "content": "The S&P SPIVA Report (2024) shows: 88% of large-cap actively managed funds underperformed S&P 500 over 10 years after fees. Over 15 years, 89% underperformed. For small-cap funds, 79% underperformed Russell 2000 over 10 years. These results remain consistent year after year, supporting passive index investing. The average actively managed fund has 1.0% expense ratio vs 0.03% for index funds\u00e2\u20ac\u201dthis 0.97% annual drag is difficult to overcome.",
+    "source": "S&P SPIVA Report"
+  },
+  {
+    "id": "kb_056",
+    "category": "Index Investing",
+    "title": "Why Index Funds Are Popular",
+    "content": "Index funds attempt to replicate the performance of a market index such as the S&P 500. They typically offer broad diversification, low operating costs, and passive management. Bogleheads investment philosophy strongly supports low-cost index investing for long-term wealth building.",
+    "source": "Bogleheads Wiki"
+  },
+  {
+    "id": "kb_057",
+    "category": "Individual Stocks",
+    "title": "Stock Picking Success Rate",
+    "content": "Historical data shows 95% of individual stock pickers underperform index funds over 10+ years. Even professional money managers (who have research teams and computers): 88-90% underperform benchmarks after fees. Transaction costs, emotional decisions, and selection bias work against individual investors. For most investors, index funds provide better risk-adjusted returns. If interested in stocks: limit to 5-10% of portfolio, research thoroughly, expect it to be a learning exercise not profit center.",
+    "source": "S&P SPIVA Report & Morningstar"
+  },
+  {
+    "id": "kb_058",
+    "category": "Inflation",
+    "title": "How Inflation Affects Investments",
+    "content": "Inflation reduces purchasing power over time by increasing the cost of goods and services. Investors seek returns that outpace inflation to preserve and grow real wealth. Stocks and inflation-protected securities are commonly used to combat inflation risk.",
+    "source": "Investopedia & SEC Investor.gov"
+  },
+  {
+    "id": "kb_059",
+    "category": "Inflation",
+    "title": "Inflation-Protected Securities (TIPS)",
+    "content": "Treasury Inflation-Protected Securities adjust principal for inflation. If you buy $10,000 TIPS at 2% yield and inflation is 3%, principal becomes $10,300, yielding 2% on adjusted principal. At maturity, you get inflation-adjusted principal. Protects purchasing power. TIPS ETFs: SCHP (short-term 1-3 yrs), TIP (long-term 7-30 yrs). Current TIPS yields 2-3% with inflation protection. Consider 5-10% of bond allocation in TIPS for inflation insurance.",
+    "source": "Vanguard & PIMCO Education"
+  },
+  {
+    "id": "kb_060",
+    "category": "Inflation",
+    "title": "What Is Inflation?",
+    "content": "Inflation is the general increase in prices over time, reducing purchasing power. Moderate inflation is common in growing economies, but high inflation can make everyday goods and services more expensive.",
+    "source": "Federal Reserve"
+  },
+  {
+    "id": "kb_061",
+    "category": "Insurance",
+    "title": "Health Insurance Deductibles and Premiums",
+    "content": "Health insurance premiums are recurring payments required to maintain coverage, while deductibles are amounts policyholders must pay before insurance coverage begins sharing costs. Plans with lower premiums often have higher deductibles and vice versa.",
+    "source": "Investopedia & Healthcare.gov"
+  },
+  {
+    "id": "kb_062",
+    "category": "Insurance",
+    "title": "Life Insurance Basics",
+    "content": "Life insurance provides financial support to beneficiaries after the insured person dies. Term life insurance covers a specific period, while permanent policies may include lifelong coverage and cash value accumulation.",
+    "source": "NAIC & LIMRA"
+  },
+  {
+    "id": "kb_063",
+    "category": "Insurance",
+    "title": "Term Life vs Whole Life Insurance",
+    "content": "Term life insurance provides coverage for a specified number of years and is generally less expensive than permanent insurance. Whole life insurance offers lifelong coverage and may include a cash value component that grows over time.",
+    "source": "Investopedia"
+  },
+  {
+    "id": "kb_064",
+    "category": "Insurance",
+    "title": "Understanding Auto Insurance",
+    "content": "Auto insurance may include liability, collision, comprehensive, uninsured motorist, and personal injury protection coverage. Deductibles affect premiums and out-of-pocket costs after accidents.",
+    "source": "NAIC"
+  },
+  {
+    "id": "kb_065",
+    "category": "Insurance",
+    "title": "Why Health Insurance Matters",
+    "content": "Health insurance helps reduce the financial impact of medical expenses. Plans often include premiums, deductibles, copayments, coinsurance, and out-of-pocket maximums. Preventive care is frequently covered at low or no cost.",
+    "source": "Healthcare.gov"
+  },
+  {
+    "id": "kb_066",
+    "category": "International Investing",
+    "title": "Currency Risk and Hedging",
+    "content": "International stock returns = stock price change + currency change. Euro appreciates vs dollar \u00e2\u2020\u2019 European stocks gain extra from currency. Dollar appreciates \u00e2\u2020\u2019 European stocks lose from currency. Over long-term (10+ years): currency hedging approximately breaks even (slight drag). For diversification benefit: accept currency risk (unhedged). Currency-hedged ETFs available but add costs. Emerging market currency risk higher but often priced into higher returns expected. Most long-term investors: unhedged international exposure.",
+    "source": "Vanguard & Morningstar"
+  },
+  {
+    "id": "kb_067",
+    "category": "Investing",
+    "title": "Asset Allocation Basics",
+    "content": "Asset allocation divides investments among categories such as stocks, bonds, and cash. Allocation decisions are influenced by age, goals, risk tolerance, and investment horizon.",
+    "source": "Fidelity & Vanguard"
+  },
+  {
+    "id": "kb_068",
+    "category": "Investing",
+    "title": "Compound Interest Explained",
+    "content": "Compound interest occurs when investment earnings generate additional earnings over time. Compounding can significantly increase wealth when investments are allowed to grow for long periods. Starting early and contributing consistently are key principles for maximizing compound growth.",
+    "source": "Investopedia & Bogleheads Wiki"
+  },
+  {
+    "id": "kb_069",
+    "category": "Investing",
+    "title": "Diversification Explained",
+    "content": "Diversification spreads investments across different asset classes, sectors, and geographic regions to reduce portfolio risk. Diversification cannot eliminate losses but may reduce volatility.",
+    "source": "SEC"
+  },
+  {
+    "id": "kb_070",
+    "category": "Investing",
+    "title": "Dollar-Cost Averaging",
+    "content": "Dollar-cost averaging involves investing a fixed amount at regular intervals regardless of market conditions. This strategy may reduce the emotional impact of market volatility and lower average purchase costs over time.",
+    "source": "Vanguard"
+  },
+  {
+    "id": "kb_071",
+    "category": "Investing",
+    "title": "Dollar-Cost Averaging Strategy",
+    "content": "Dollar-cost averaging involves investing a fixed amount of money at regular intervals regardless of market prices. This strategy may reduce the emotional impact of market volatility and lower the average cost per share over time.",
+    "source": "Investopedia & Bogleheads Wiki"
+  },
+  {
+    "id": "kb_072",
+    "category": "Investing",
+    "title": "Risk vs Return",
+    "content": "Higher potential investment returns generally come with higher risk. Stocks historically provide higher long-term returns than bonds or cash but also experience greater short-term volatility. Diversification can help reduce portfolio risk.",
+    "source": "Vanguard"
+  },
+  {
+    "id": "kb_073",
+    "category": "Investing",
+    "title": "The Power of Compound Interest",
+    "content": "Compound interest allows investments to grow on both the original principal and accumulated earnings. Starting early increases long-term growth potential because earnings continue compounding over time. Even small recurring contributions can grow significantly over decades.",
+    "source": "SEC & Fidelity"
+  },
+  {
+    "id": "kb_074",
+    "category": "Investing",
+    "title": "What Is Investing?",
+    "content": "Investing involves using money to purchase assets expected to grow in value or produce income over time. Common investments include stocks, bonds, mutual funds, ETFs, and real estate. Investing carries risk, but long-term investing historically outpaces inflation better than cash savings.",
+    "source": "SEC & Vanguard"
+  },
+  {
+    "id": "kb_075",
+    "category": "Investment Policy Statement",
+    "title": "Creating Investment Policy Statement",
+    "content": "Written plan defining: 1) Goals (retirement date, target amount), 2) Timeline (10-20+ years), 3) Risk tolerance (conservative/moderate/aggressive), 4) Asset allocation (e.g., 60/40), 5) Investment vehicles (index funds, ETFs), 6) Rebalancing schedule (annually), 7) Spending/withdrawal plan (4% rule), 8) Review frequency (annually). Benefits: forces discipline, removes emotion during market crashes, prevents impulsive changes. Update annually or after major life changes (marriage, job loss, inheritance). Written plans outperform ad-hoc decisions by 2-3% annually through discipline.",
+    "source": "Bogleheads & Vanguard"
+  },
+  {
+    "id": "kb_076",
+    "category": "Leverage and Margin",
+    "title": "Understanding Margin and Leverage Risks",
+    "content": "Margin = borrowing to buy more securities. Can amplify gains but also losses. Example: $100,000 account, buy $150,000 stock using $50,000 margin at 3% interest. Stock falls 20% = $130,000 value but owe $50,500 debt = $79,500 net (20% loss becomes 26% loss). Volatility amplified. Margin calls force selling at worst times. For most retail investors: avoid margin for long-term investing. Leverage useful for specific strategies but risky. Regulatory margin requirements: 50% minimum (changes by security).",
+    "source": "SEC & FINRA"
+  },
+  {
+    "id": "kb_077",
+    "category": "Market Timing",
+    "title": "Why Market Timing Fails",
+    "content": "Trying to sell before downturns and buy before rallies is nearly impossible. Missing 10 best market days (often around declines) reduces 20-year returns 50%. Best days often cluster around worst days. Professional traders with computers fail at timing (88-90% underperform). Historical data: 90% of gains occur in months following 20% declines. Solution: stay invested, rebalance into downturns, ignore market predictions. Disciplined buy-and-hold beats emotional traders consistently.",
+    "source": "Vanguard & Bogleheads"
+  },
+  {
+    "id": "kb_078",
+    "category": "Modern Portfolio Theory",
+    "title": "Modern Portfolio Theory Basics",
+    "content": "Modern Portfolio Theory (MPT) suggests investors can maximize expected returns for a given level of risk by combining diversified assets. Developed by Harry Markowitz, MPT emphasizes efficient portfolios, diversification, and balancing risk against expected return.",
+    "source": "Modern Portfolio Theory & Investopedia"
+  },
+  {
+    "id": "kb_079",
+    "category": "Mutual Funds",
+    "title": "Mutual Funds Explained",
+    "content": "Mutual funds pool money from many investors to buy diversified portfolios of stocks, bonds, or other assets. Professional managers oversee the fund. Investors pay fees such as expense ratios, which affect long-term returns.",
+    "source": "SEC & Fidelity"
+  },
+  {
+    "id": "kb_080",
+    "category": "Portfolio Construction",
+    "title": "Core Portfolio Strategy",
+    "content": "Bogleheads core portfolio: 3-fund portfolio = US Total Market (VTI), International Stocks (VXUS), Bonds (BND) in appropriate allocation. Example 60/40: 36% VTI (US stocks), 9% VXUS (intl stocks), 15% BND (bonds). Or simplified 2-fund: 60% US stocks, 40% bonds. Advantages: extreme simplicity, low cost (<0.10% average), rebalances annually, tax efficient. Annual maintenance: 30 minutes. This outperforms 95%+ of actively managed portfolios while requiring minimal effort.",
+    "source": "Bogleheads & Vanguard"
+  },
+  {
+    "id": "kb_081",
+    "category": "Portfolio Management",
+    "title": "Efficient Frontier Explained",
+    "content": "The efficient frontier is a concept from Modern Portfolio Theory describing portfolios that provide the highest expected return for a given level of risk. Investors seek portfolios near the efficient frontier to optimize risk-adjusted performance.",
+    "source": "Modern Portfolio Theory & Investopedia"
+  },
+  {
+    "id": "kb_082",
+    "category": "Portfolio Management",
+    "title": "Rebalancing an Investment Portfolio",
+    "content": "Portfolio rebalancing involves adjusting investments to maintain a desired asset allocation. Market movements may cause allocations to drift over time. Rebalancing can help manage risk and maintain investment discipline.",
+    "source": "Bogleheads Wiki & Modern Portfolio Theory"
+  },
+  {
+    "id": "kb_083",
+    "category": "REITs",
+    "title": "Real Estate Investment Trusts",
+    "content": "REITs own and manage real estate, distributing 90%+ of income as dividends (tax inefficient). Residential REITs (apartments), commercial (offices), retail (shopping centers), industrial (warehouses), healthcare (hospitals). Average REIT yield: 3-5%. Benefits: inflation hedge, low correlation to stocks (0.6-0.7). Drawbacks: high dividend taxes, sensitive to interest rates. Allocation: 5-10% of portfolio for income/diversification. ETFs: VNQ, SCHH. Place in tax-advantaged accounts due to tax inefficiency.",
+    "source": "Vanguard & Morningstar"
+  },
+  {
+    "id": "kb_084",
+    "category": "Real Estate",
+    "title": "Fixed vs Adjustable-Rate Mortgages",
+    "content": "Fixed-rate mortgages maintain the same interest rate throughout the loan term, while adjustable-rate mortgages (ARMs) may change periodically after an initial fixed period. ARMs may start with lower rates but carry future rate risk.",
+    "source": "Consumer Financial Protection Bureau"
+  },
+  {
+    "id": "kb_085",
+    "category": "Real Estate",
+    "title": "Fixed-Rate vs Adjustable-Rate Mortgages",
+    "content": "Fixed-rate mortgages maintain the same interest rate throughout the loan term, providing predictable payments. Adjustable-rate mortgages (ARMs) may start with lower rates but can increase or decrease over time based on market conditions.",
+    "source": "Investopedia"
+  },
+  {
+    "id": "kb_086",
+    "category": "Real Estate",
+    "title": "How Mortgages Work",
+    "content": "A mortgage is a loan used to purchase real estate. Borrowers repay principal and interest over time. Mortgage costs are affected by interest rates, down payments, loan terms, property taxes, and insurance.",
+    "source": "CFPB"
+  },
+  {
+    "id": "kb_087",
+    "category": "Real Estate",
+    "title": "Understanding Mortgage Interest",
+    "content": "Mortgage interest is the cost borrowers pay lenders for financing a home purchase. Monthly mortgage payments typically include principal, interest, property taxes, and insurance. Interest rates significantly affect total borrowing costs over the life of the loan.",
+    "source": "Investopedia & CFPB"
+  },
+  {
+    "id": "kb_088",
+    "category": "Rebalancing",
+    "title": "Rebalancing Strategy & Frequency",
+    "content": "Rebalance annually or when allocations drift 5%+ from target. Example: 60/40 target, after gains becomes 70/30. Rebalancing sells 10% from stocks and buys bonds. Tax-deferred accounts: rebalance freely. Taxable accounts: harvest losses while rebalancing. Dollar-cost averaging new contributions automatically provides rebalancing benefit. Never rebalance based on market predictions (timing the market). Systematic rebalancing is one of few 'free' return enhancers by forcing contrarian decisions.",
+    "source": "Bogleheads"
+  },
+  {
+    "id": "kb_089",
+    "category": "Retirement",
+    "title": "Catch-Up Contributions",
+    "content": "Workers above certain ages may make additional catch-up contributions to retirement accounts such as 401(k)s and IRAs. These provisions help older workers increase retirement savings.",
+    "source": "IRS"
+  },
+  {
+    "id": "kb_090",
+    "category": "Retirement",
+    "title": "Required Minimum Distributions",
+    "content": "Required minimum distributions (RMDs) are mandatory withdrawals from certain retirement accounts beginning at a specified age. Failure to withdraw required amounts may result in penalties.",
+    "source": "IRS"
+  },
+  {
+    "id": "kb_091",
+    "category": "Retirement",
+    "title": "Required Minimum Distributions Explained",
+    "content": "Required Minimum Distributions (RMDs) are mandatory withdrawals from certain retirement accounts beginning at a specific age established by tax law. Failure to take required withdrawals may result in penalties. Roth IRAs for original owners are generally exempt from RMD rules.",
+    "source": "SEC Investor.gov & Investopedia"
+  },
+  {
+    "id": "kb_092",
+    "category": "Retirement",
+    "title": "Roth IRA Basics",
+    "content": "A Roth IRA uses after-tax contributions, allowing qualified withdrawals in retirement to be tax-free. Roth IRAs have income eligibility limits and no required minimum distributions during the original owner\u00e2\u20ac\u2122s lifetime.",
+    "source": "IRS & Schwab"
+  },
+  {
+    "id": "kb_093",
+    "category": "Retirement",
+    "title": "Traditional IRA Basics",
+    "content": "A Traditional IRA allows individuals to contribute money for retirement with potential tax deductions. Investments grow tax-deferred until withdrawals in retirement. Withdrawals are generally taxed as ordinary income.",
+    "source": "IRS & Vanguard"
+  },
+  {
+    "id": "kb_094",
+    "category": "Retirement",
+    "title": "Understanding 401(k) Plans",
+    "content": "A 401(k) is an employer-sponsored retirement account that allows employees to contribute pre-tax or Roth dollars. Employers may provide matching contributions. Investments grow tax-deferred or tax-free depending on the account type.",
+    "source": "SEC Investor.gov"
+  },
+  {
+    "id": "kb_095",
+    "category": "Retirement",
+    "title": "What Is a 401(k)?",
+    "content": "A 401(k) is an employer-sponsored retirement account that allows employees to contribute pre-tax or Roth dollars. Many employers offer matching contributions. Investments grow tax-deferred or tax-free depending on account type.",
+    "source": "IRS & Fidelity"
+  },
+  {
+    "id": "kb_096",
+    "category": "Retirement",
+    "title": "Why Starting Retirement Savings Early Matters",
+    "content": "Starting retirement contributions early allows compound growth to work over longer periods. Investors who begin saving earlier may contribute less overall while achieving larger balances due to compounding returns over decades.",
+    "source": "Bogleheads Wiki & Investopedia"
+  },
+  {
+    "id": "kb_097",
+    "category": "Retirement Accounts",
+    "title": "401k Optimization",
+    "content": "401(k) employer-sponsored plan. Contribute 2024 limit: $23,500 (age <50) or $30,500 (age 50+). Employer match: common 3-6% employer contribution. Aim to maximize match (free money). Investment options limited (typically 15-30 funds). Strategy: maximize contributions, choose low-cost funds (if available), select target-date fund matching retirement year. Vanguard average 401(k) expense ratio: 0.20-0.30% vs industry 0.50%+. After leaving job: consider rolling 401(k) to IRA for more control and lower fees.",
+    "source": "Vanguard & SEC"
+  },
+  {
+    "id": "kb_098",
+    "category": "Retirement Accounts",
+    "title": "Health Savings Account (HSA) Benefits",
+    "content": "HSA = triple tax advantage: 1) Tax-deductible contributions $4,150/year (self-only) or $8,300 (family), 2) Tax-free growth, 3) Tax-free withdrawals for medical expenses. Requires high-deductible health plan ($1,600 deductible single). Can invest contributions (don't just hold cash). At 65+: can withdraw for any purpose (taxed like IRA, no medical penalty). After 65: unused HSA is essentially tax-deductible 401(k) conversion. Most powerful retirement savings account but often overlooked.",
+    "source": "Vanguard & SEC"
+  },
+  {
+    "id": "kb_099",
+    "category": "Retirement Accounts",
+    "title": "IRA Comparison: Traditional vs Roth",
+    "content": "Traditional IRA: $7,000/year (2024) with upfront tax deduction, tax-deferred growth, taxed on withdrawal. Roth IRA: $7,000/year after-tax contributions, tax-free growth, tax-free withdrawal in retirement. Income limits apply to Traditional IRA deduction ($77,000 single, $123,000 married) and Roth contributions ($146,000 single). Roth advantages: no required minimum distributions (RMDs), tax-free growth, younger investors, flexible withdrawals. Traditional advantages: immediate tax deduction, lower current tax bracket. Consider Roth for young investors in low tax brackets.",
+    "source": "Vanguard & SEC"
+  },
+  {
+    "id": "kb_100",
+    "category": "Retirement Accounts",
+    "title": "Traditional IRA vs Roth IRA",
+    "content": "Traditional IRAs may provide tax deductions for contributions and tax-deferred growth, while Roth IRAs use after-tax contributions and allow tax-free qualified withdrawals in retirement. Roth IRAs have income eligibility limits and no required minimum distributions for original account owners.",
+    "source": "Investopedia & SEC Investor.gov"
+  },
+  {
+    "id": "kb_101",
+    "category": "Risk Management",
+    "title": "Market Cycles and Rebalancing",
+    "content": "Market cycles (bull/bear) are normal. Average bull market: 4-5 years (300%+ returns). Average bear market: 1-2 years (30-50% declines). Rebalancing quarterly or annually locks in gains and buys low. Example: Start 60/40 portfolio. After stock rally: becomes 70/30. Rebalancing sells stocks (now 10% high) and buys bonds, maintaining discipline. This systematic approach improves long-term risk-adjusted returns. Rebalancing forces contrarian behavior\u00e2\u20ac\u201dbuying when assets are cheap and selling when expensive.",
+    "source": "Bogleheads"
+  },
+  {
+    "id": "kb_102",
+    "category": "Risk Management",
+    "title": "Understanding Investment Risk",
+    "content": "Investment risk refers to the possibility of losing money or earning lower-than-expected returns. Common risks include market risk, inflation risk, interest rate risk, and credit risk. Higher potential returns are generally associated with higher levels of risk.",
+    "source": "SEC Investor.gov"
+  },
+  {
+    "id": "kb_103",
+    "category": "Risk Management",
+    "title": "Understanding Volatility",
+    "content": "Volatility measures price fluctuations. Stock market average annual volatility: 15-20%. Bonds: 3-7%. A $100,000 portfolio with 15% volatility might fluctuate $15,000 annually. Volatility is normal, not permanent loss. Historical stock market corrections (10%+) occur every 1-2 years; bear markets (20%+) every 3-5 years. Staying invested through downturns is crucial: missing the 10 best days in 20 years cuts returns by 50%. Diversification reduces portfolio volatility by combining uncorrelated assets.",
+    "source": "Vanguard"
+  },
+  {
+    "id": "kb_104",
+    "category": "Saving",
+    "title": "Building an Emergency Fund",
+    "content": "An emergency fund is cash reserved for unexpected expenses such as medical bills, car repairs, or job loss. Many financial experts recommend saving 3-6 months of essential expenses. High-yield savings accounts are commonly used because they offer liquidity and interest earnings.",
+    "source": "FDIC & NerdWallet"
+  },
+  {
+    "id": "kb_105",
+    "category": "Saving",
+    "title": "Emergency Fund Basics",
+    "content": "An emergency fund is money reserved for unexpected expenses such as medical emergencies, job loss, or car repairs. Financial experts commonly recommend saving 3-6 months of essential living expenses. Emergency funds are usually kept in liquid accounts such as high-yield savings accounts for quick access and safety.",
+    "source": "Investopedia & SEC Investor.gov"
+  },
+  {
+    "id": "kb_106",
+    "category": "Saving",
+    "title": "High-Yield Savings Accounts",
+    "content": "High-yield savings accounts typically offer higher interest rates than traditional savings accounts. They are commonly offered by online banks with lower overhead costs. These accounts are useful for emergency funds and short-term savings goals while maintaining FDIC or NCUA insurance protection.",
+    "source": "FDIC & Bankrate"
+  },
+  {
+    "id": "kb_107",
+    "category": "Savings",
+    "title": "High-Yield Savings Accounts",
+    "content": "High-yield savings accounts typically offer higher interest rates than traditional savings accounts. They are commonly provided by online banks and are often used for emergency funds or short-term savings goals while maintaining liquidity and FDIC insurance protection.",
+    "source": "Investopedia & FDIC"
+  },
+  {
+    "id": "kb_108",
+    "category": "Sector Rotation",
+    "title": "Sector Performance and Cycles",
+    "content": "Market cycles typically: Recession \u00e2\u2020\u2019 Recovery \u00e2\u2020\u2019 Expansion \u00e2\u2020\u2019 Overheating. Sectors rotate: Recession favors defensive (utilities, staples, healthcare). Recovery favors cyclicals (industrials, financials, tech). Expansion favors growth (tech, discretionary). Overheating favors value/commodities. Most investors can't time sector rotations. Broad diversification (all sectors) reduces timing risk. Sector weights in S&P 500: Tech 30%, Financials 12%, Healthcare 12%, Industrials 8%, Utilities 3%, Commodities 5%. Tilting toward sectors adds complexity without guaranteed returns.",
+    "source": "Morningstar"
+  },
+  {
+    "id": "kb_109",
+    "category": "Social Security",
+    "title": "How Social Security Benefits Work",
+    "content": "Social Security retirement benefits are based on lifetime earnings and claiming age. Claiming earlier reduces monthly benefits, while delaying benefits may increase payments.",
+    "source": "Social Security Administration"
+  },
+  {
+    "id": "kb_110",
+    "category": "Stocks",
+    "title": "What Is a Stock?",
+    "content": "A stock represents partial ownership in a company. Shareholders may benefit from price appreciation and dividends. Stock prices fluctuate based on company performance, economic conditions, and investor expectations.",
+    "source": "SEC"
+  },
+  {
+    "id": "kb_111",
+    "category": "Student Loans",
+    "title": "Federal vs Private Student Loans",
+    "content": "Federal student loans often offer borrower protections such as income-driven repayment and deferment options. Private student loans are issued by banks or lenders and may have fewer repayment protections.",
+    "source": "Federal Student Aid"
+  },
+  {
+    "id": "kb_112",
+    "category": "Student Loans",
+    "title": "Income-Driven Repayment Plans",
+    "content": "Income-driven repayment plans adjust federal student loan payments based on income and family size. Remaining balances may qualify for forgiveness after a specified repayment period.",
+    "source": "Federal Student Aid"
+  },
+  {
+    "id": "kb_113",
+    "category": "Tax Efficiency",
+    "title": "Asset Location Strategy",
+    "content": "Place tax-inefficient assets in tax-advantaged accounts: Bonds (generate taxable interest) \u00e2\u2020\u2019 401(k), IRA, HSA. REITs (highly taxed distributions) \u00e2\u2020\u2019 retirement accounts. High-turnover funds (short-term gains) \u00e2\u2020\u2019 retirement accounts. In taxable accounts: index funds (low turnover), growth stocks, municipal bonds (tax-free interest). This strategy can add 0.5-1.0% annual returns through tax savings. ETFs are more tax-efficient than mutual funds due to their creation/redemption mechanism.",
+    "source": "Vanguard"
+  },
+  {
+    "id": "kb_114",
+    "category": "Tax Efficiency",
+    "title": "Tax-Loss Harvesting",
+    "content": "Tax-loss harvesting sells losing positions to offset gains. Example: gain $5,000 on stock A, lose $3,000 on stock B. Net gain $2,000, owe taxes on that instead of $5,000. Excess losses ($3,000-$5,000=unused $0, but if $8,000 loss) can offset ordinary income (max $3,000/year) and carry forward. Wash-sale rule: cannot repurchase same security within 30 days. Substitute with similar but not identical security (e.g., different S&P 500 fund). Can recover 20-40% of losses through tax deferral.",
+    "source": "SEC & Vanguard"
+  },
+  {
+    "id": "kb_115",
+    "category": "Taxes",
+    "title": "Capital Gains Taxes",
+    "content": "Capital gains taxes apply to profits from selling investments such as stocks, bonds, or real estate. Short-term capital gains are generally taxed at ordinary income rates, while long-term capital gains may qualify for lower tax rates.",
+    "source": "Investopedia"
+  },
+  {
+    "id": "kb_116",
+    "category": "Taxes",
+    "title": "Tax Deductions vs Tax Credits",
+    "content": "Tax deductions reduce taxable income, while tax credits directly reduce taxes owed. Credits are generally more valuable dollar-for-dollar because they lower tax liability directly.",
+    "source": "IRS & TurboTax"
+  },
+  {
+    "id": "kb_117",
+    "category": "Taxes",
+    "title": "Understanding Capital Gains Taxes",
+    "content": "Capital gains taxes apply to profits from selling investments such as stocks or real estate. Short-term gains are generally taxed at ordinary income rates, while long-term gains may qualify for lower tax rates.",
+    "source": "IRS"
+  },
+  {
+    "id": "kb_118",
+    "category": "Taxes",
+    "title": "Understanding Payroll Taxes",
+    "content": "Payroll taxes fund programs such as Social Security and Medicare. Employers withhold payroll taxes from employee wages and may also contribute matching amounts.",
+    "source": "IRS"
+  },
+  {
+    "id": "kb_119",
+    "category": "Taxes",
+    "title": "Understanding Tax Brackets",
+    "content": "The U.S. federal income tax system uses progressive tax brackets, meaning higher portions of income are taxed at higher rates. Only income within each bracket is taxed at that bracket\u00e2\u20ac\u2122s rate, not total income.",
+    "source": "IRS"
+  }
+]

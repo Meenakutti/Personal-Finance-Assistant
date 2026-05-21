@@ -1,0 +1,44 @@
+# Environment & secrets
+.env
+.env.local
+*.env
+
+# Python virtual environments
+.venv*/
+.venv3.12/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+*.log
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
